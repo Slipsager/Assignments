@@ -1,0 +1,5 @@
+name = webdev1
+description = Custom module exercise day 2 
+core = 7.x
+package = Custom
+files[] = webdev1.module
